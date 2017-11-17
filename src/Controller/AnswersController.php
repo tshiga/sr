@@ -158,7 +158,7 @@ Smart Recruiting（非公開求人情報）へのお申し込みを受け付け�
 下記の電話番号より速やかにお電話させて頂きます。
 （夜間の場合には翌朝以降にご連絡させて頂きます。）
 
-03-xxxx-xxxx
+03-3272-0606
 
 === ご入力頂いた情報 ===
 ';
@@ -176,7 +176,7 @@ $body .='
 
 Smart Recruiting 
 contact@smartrecruiting.jp
-03-xxxx-xxxx'
+03-3272-0606'
 ; // 本文
                             $to = $email;
                             $bcc_to = 'contact@smartrecruiting.jp';
