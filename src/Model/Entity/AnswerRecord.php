@@ -31,3 +31,4 @@ class AnswerRecord extends Entity
         'form_answer' => true
     ];
 }
+

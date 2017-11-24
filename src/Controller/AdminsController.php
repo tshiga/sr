@@ -54,7 +54,6 @@ class AdminsController extends AppController
         parent::beforeRender($event);
     }
 
-
     public function admin(){
         $this->loadModel('AnswerRecords');
         $records = $this->AnswerRecords->find('all');
@@ -62,6 +61,5 @@ class AdminsController extends AppController
         $this->render('admin');   
 
     }
-
 
 }
